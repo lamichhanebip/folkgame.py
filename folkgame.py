@@ -88,7 +88,7 @@ while game == 'running':
                 else: 
                     print ("U have failed, time to die!!!!!!!!!!!!!!!")
                     room = 'starting'
-
+#room 3 final room
     if room == "room 3": 
         print("you move past the ghost and into the third room, the walls are full of paint, green and red paint to be exact. There was one peice of paper and a pen on the floor of the room")
 
